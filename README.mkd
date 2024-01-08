@@ -1,6 +1,6 @@
 # Table of Contents
- - About
- - Installation
+ - [About](https://github.com/rosehaze/dotties#about)
+ - [Installation](https://github.com/rosehaze/dotties#installation)
 
 # About
 These are my dotfiles. There is nothing particularly interesting about them, but if you'd like, feel free to use them.
