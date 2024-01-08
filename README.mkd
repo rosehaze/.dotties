@@ -1,1 +1,11 @@
-These are my dotfiles.
+# Table of Contents
+ - About
+ - Installation
+
+# About
+These are my dotfiles. There is nothing particularly interesting about them, but if you'd like, feel free to use them.
+
+# Installation
+
+git clone https://github.com/rosehaze/dotties.git ~/.dotfiles
+cd ~/.dotfiles
