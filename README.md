@@ -9,5 +9,7 @@ There is nothing particularly interesting about them, but if you'd like, feel fr
 
 # Installation
 
-git clone https://github.com/rosehaze/dotties.git ~/.dotfiles
-cd ~/.dotfiles
+git clone https://github.com/rosehaze/dotties.git ~/dotties
+cd ~/dotties
+
+Run the dotties.zsh to create symlinks to the dotfiles
