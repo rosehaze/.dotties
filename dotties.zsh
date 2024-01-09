@@ -3,7 +3,7 @@
 
 # Test if ~/.vimrc exist, if not, creates the file with sym link
 if [ -f ~/.vimrc ]; then
-elseif 
+else
     ln -s -f ~/dotties/.vimrc ~/.vimrc
 fi
 
