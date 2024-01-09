@@ -2,7 +2,7 @@
 
 ![dotties(1)](https://github.com/rosehaze/dotties/assets/71717036/d9e5471d-80db-4a96-90f3-e4bd75fa18a7)
 
-Here is a compilation of my dotfiles. I use vim as my IDE and primarly work with zsh, except when it is not available, I use Bash.
+Here is a compilation of my dotfiles. It includes my .vimrc, and .zshrc.
 
 # Table of Contents
  - [About](https://github.com/rosehaze/dotties#about)
