@@ -11,6 +11,6 @@ fi
 if [ -f ~/.aliases ]; then
     source ~/.zshrc
 else
-    ln -s -f ~/dotties/.zshrc ~/.zshrc;then
+    ln -s -f ~/dotties/.zshrc ~/.zshrc; then
     source ~/.zshrc
 fi
