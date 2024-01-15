@@ -10,6 +10,7 @@ set wrap
 set linebreak
 set splitbelow
 set termwinsize=10x0
+set cursorline
 
 " Automatically open Goyo for Markdown files
 autocmd FileType markdown Goyo
